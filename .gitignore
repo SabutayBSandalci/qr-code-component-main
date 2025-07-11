@@ -1,0 +1,35 @@
+# Genel dosyalar
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE dosyalar
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log dosyaları
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary dosyalar
+*.tmp
+*.temp
+
+# Node.js (eğer kullanıyorsanız)
+node_modules/
+npm-debug.log
+.npm
+
+# Diğer
+*.zip
+*.tar.gz
+*.rar 
